@@ -16,7 +16,7 @@
     <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
     <link rel="stylesheet" type="text/css" media="screen" href="css/grid_12.css">
     <link rel="stylesheet" type="text/css" media="screen" href="css/slider.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="css/tabs.css">
+ 
 	
     <script src="js/jquery-1.7.min.js"></script>
     <script src="js/jquery.easing.1.3.js"></script>
@@ -54,8 +54,7 @@
       </div>
     <![endif]-->
     <!--[if lt IE 9]>
-   		<script type="text/javascript" src="js/html5.js"></script>
-    	<link rel="stylesheet" type="text/css" media="screen" href="css/ie.css">
+   	Feed back index page
 	<![endif]-->
 </head>
 <body>
